@@ -26,7 +26,7 @@ body:
       render: shell
   - type: textarea
   attributes:
-    label:Links
+    label: Links
     description: |
       Links? Anything that will give us more context about the issue you are encountering!
 
