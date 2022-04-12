@@ -13,8 +13,9 @@ body:
     id: description
     attributes:
       label: Description
-      description: Detail all the relevant information 
-      Tip: You can write full markdown here!
+      description: |
+        Detail all the relevant information 
+        Tip: You can write full markdown here!
       placeholder: Tell us what you see!      
     validations:
       required: true
