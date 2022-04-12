@@ -14,8 +14,8 @@ body:
     attributes:
       label: Description
       description: Detail all the relevant information 
-      placeholder: Tell us what you see!
-      value: "You can write full markdown here!"
+      Tip: You can write full markdown here!
+      placeholder: Tell us what you see!      
     validations:
       required: true
   - type: textarea
