@@ -1,6 +1,6 @@
 name: Create General Issue
 description: Create General Issue
-title: "Summary"
+title: "xpto <ddd>"
 labels: []
 assignees:
   - miguel-a-miranda
