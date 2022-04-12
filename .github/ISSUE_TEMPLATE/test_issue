@@ -1,6 +1,7 @@
 name: Create General Issue
 description: Create General Issue
 title: "<title>"
+labels: []
 assignees:
   - miguel-a-miranda
 body:
